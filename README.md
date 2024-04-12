@@ -6,5 +6,5 @@ Este repositório foi criado com o propósito de armazenar e compartilhar os cur
 
 ### Curso GIT-GITHUB - Curso em Vídeo 
 
-**Meu repositório de Cursos _GIT-GITHUB_**  [click aqui]https://github.com/ulissescaldas/Ola-Mundo/tree/main/GIT-GITHUB
-Link para o **Curso de GIT-GITHUB**  [Curso em Vídeo]https://github.com/ulissescaldas/Ola-Mundo/tree/main/GIT-GITHUB
+**Meu repositório de Cursos _GIT-GITHUB_**  [click aqui](https://github.com/ulissescaldas/Ola-Mundo/tree/main/GIT-GITHUB)
+Link para o **Curso de GIT-GITHUB**  [Curso em Vídeo](https://github.com/ulissescaldas/Ola-Mundo/tree/main/GIT-GITHUB)
