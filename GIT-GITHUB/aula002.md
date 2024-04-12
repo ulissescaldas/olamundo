@@ -106,3 +106,6 @@ Obrigado! @ikatyang
 > Esta é uma citação externa com algum texto. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 >> Esta é uma citação interna com algum texto.
 
+## Link para o manual Markdown do Curso em Vídeo
+---
+[click aqui para ver o manula Markdown](https://github.com/ulissescaldas/Ola-Mundo/blob/main/GIT-GITHUB/guia-markdown.pdf)
