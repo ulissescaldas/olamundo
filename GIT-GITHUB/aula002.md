@@ -1,5 +1,5 @@
 # Aula Markdown - Curso em Vídeo
-## [Link do Curso](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
+## [Link do Curso GIT/GITHUB](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)
 
 Olá, Mundo!
 
@@ -62,4 +62,19 @@ __*Olá, Mundo!*__
 ---
 ![Imagem de teste aula002](https://github.com/ulissescaldas/Ola-Mundo/assets/140160383/2f2395a5-dd0a-41c8-a3b7-670f590d9590)
 
+## Link
+---
+[Acesse aqui a aula de Markdown - Curso em Vídeo](https://www.youtube.com/watch?v=LntSB-gl-ZI&t=1389s)
 
+## Tabela
+---
+coluna 1 | coluna 2 | caluna 3
+--- | --- | ---
+linha 1 | aula002 | título
+linha 2 | aula002 | lista
+linha 3 | aula002 | imagem
+linha 4 | aula002 | link
+linha 5 | aula002 | tabela
+
+## Tabela
+---
