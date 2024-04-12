@@ -93,8 +93,16 @@ where ac.status = 'concluído' and ti.tipo = 1
 order by ac.nome asc
 ```
 
-## emoji
+## Emoji
 ---
 Olá, Mundo! :earth_americas: `:earth_americas:`
 
 [Perfil com nomes emojis](https://github.com/ikatyang/emoji-cheat-sheet)
+
+## Citações e marcação
+---
+Obrigado! @ikatyang
+
+> Esta é uma citação externa com algum texto. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+>> Esta é uma citação interna com algum texto.
+
