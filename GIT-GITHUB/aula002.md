@@ -76,5 +76,25 @@ linha 3 | aula002 | imagem
 linha 4 | aula002 | link
 linha 5 | aula002 | tabela
 
-## Tabela
+## Comando de Programação
 ---
+Comando de Programação `select * from tb_fato_atividade_coordenada`
+
+Comando de Programação 
+```
+select ac.codigo,
+       ac.nome,
+       ac.tipo,
+       ac.status,
+       ac.sigla
+  from tb_fato_atividade_coordenada ac
+left join tb_dimensao_tipo ti on ac.tipo = ti.tipo
+where ac.status = 'concluído' and ti.tipo = 1
+order by ac.nome asc
+```
+
+## emoji
+---
+Olá, Mundo! :earth_americas: `:earth_americas:`
+
+[Perfil com nomes emojis](https://github.com/ikatyang/emoji-cheat-sheet)
