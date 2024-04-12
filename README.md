@@ -10,4 +10,12 @@ Este repositório foi criado com o propósito de armazenar e compartilhar os cur
 
   * Meu repositório de Cursos GIT-GITHUB  [:file_folder: Click Aqui](https://github.com/ulissescaldas/Ola-Mundo/tree/main/GIT-GITHUB)
 
-  * Link para o **Curso de GIT-GITHUB**   [:1st_place_medal: Curso em Vídeo](https://github.com/ulissescaldas/Ola-Mundo/tree/main/GIT-GITHUB)
+  * Link para o **Curso de GIT-GITHUB**   [:1st_place_medal: Curso em Vídeo](https://www.cursoemvideo.com/curso/curso-de-git-e-github)
+
+---
+ 
+* **Curso Python - Curso em Vídeo** 
+
+  * Meu repositório de Cursos Python  [:file_folder: Click Aqui](https://github.com/ulissescaldas/Ola-Mundo/tree/main/Python)
+
+  * Link para o **Curso de Python**   [:1st_place_medal: Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1)
