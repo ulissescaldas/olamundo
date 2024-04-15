@@ -1,5 +1,5 @@
 vCasa = float(input('Digite o valor da casa: '))
-vSalario = float(input('Digite o valor do Salário: '))
+vSalario = float(input('Digite o valor do salário: '))
 vAnoFin = int(input('Quantos anos de financiamento: '))
 vPrestacao = vCasa / (vAnoFin * 12)
 print('Valor da casa: R${} \nQuantidade de Prestação: {:.0f} meses \nValor da prestação por mês: R${:.2f}'.format(vCasa,vAnoFin * 12, vPrestacao))
