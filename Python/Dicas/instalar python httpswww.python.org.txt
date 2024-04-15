@@ -1,0 +1,4 @@
+instalar python: https://www.python.org/downloads/
+
+instalar pycharm: https://www.jetbrains.com/pt-br/pycharm/download/?section=windows
+ 
