@@ -1,14 +1,14 @@
-peso = float(input('qual é o seu peso: '))
-altura = float(input('Qual é sua altura: '))
-imc = peso / (altura ** 2)
-print('Seu INC é {:.1f}'.format(imc))
-if imc < 18.5:
+vPeso = float(input('qual é o seu peso: '))
+vAltura = float(input('Qual é sua altura: '))
+vImc = vPeso / (vAltura ** 2)
+print('Seu INC é {:.1f}'.format(vImc))
+if vImc < 18.5:
     print('Você está ABAIXO do peso Normal ')
-elif 18.5 <= imc < 25:
+elif 18.5 <= vImc < 25:
     print('Paranéns! você está no PESO NORMAL')
-elif 25 <= imc < 30:
+elif 25 <= vImc < 30:
     print('Você está em SOBREPESO')
-elif 30 <= imc < 40:
+elif 30 <= vImc < 40:
     print('Vocé está em OBESIDADE')
 else:
     print('Você está em OBESIDADE MÓRBIDA')

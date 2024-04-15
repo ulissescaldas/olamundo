@@ -1,11 +1,11 @@
-n1 = int(input('Digite o prineiro segmento: '))
-n2 = int(input('Digite o segundo segmento: '))
-n3 = int(input('Digite o terceiro segmento: '))
-if n1 < n2 + n3 and n2 < n1 + n3 and n3 < n1 + n2:
+vNumero1 = int(input('Digite o prineiro segmento: '))
+vNumero2 = int(input('Digite o segundo segmento: '))
+vNumero3 = int(input('Digite o terceiro segmento: '))
+if vNumero1 < vNumero2 + vNumero3 and vNumero2 < vNumero1 + vNumero3 and vNumero3 < vNumero1 + vNumero2:
     print('Os segmentos acima PODEM FORMAR um triângulo ', end='')
-    if n1 == n2 == n3:
+    if vNumero1 == vNumero2 == vNumero3:
         print('EQUILÁTERO!')
-    elif n1 != n2 != n3 != n1:
+    elif vNumero1 != vNumero2 != vNumero3 != vNumero1:
         print('ESCALENO!')
     else:
         print('ISÓCELES!')
