@@ -6,7 +6,7 @@ elif vNome == 'Nayara' or vNome == 'Arthur':
 elif vNome in 'Gonçalves, Figueiredo':
     print('Prepara todas as panelas...')
 else:
-    print('Legal!!!')
+    print('Legal pacas!!!')
 print('Tenha um Bom Dia, {}!'.format(vNome))
 
 
