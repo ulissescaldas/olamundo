@@ -8,10 +8,9 @@ Elabore um programa que calcule o valor a ser pago por um produto, considerando 
 print('-=-'*50)
 
 print('=' * 10, 'LOJAS UCS', '=' * 10)
-print('{:=^31}'.format(' LOJAS UCS '))
 vCompra = float(input('Digite o valor da compra: '))
 print('''FORMA DE PAGAMENTO
-[ 1 ] à vista dinheiro\cheque
+[ 1 ] à vista dinheiro/cheque
 [ 2 ] à vista cartão
 [ 3 ] 2x no cartão
 [ 4 ] 3x ou mais no cartão''')
@@ -26,8 +25,8 @@ elif vOpcao == 2:
     vValor = vCompra - vDesconto
     print('Valor da compra: R${:.2f} \nValor do Desconto: R${:.2f} \nValor a PAGAR: R${:.2f}'.format(vCompra, vDesconto, vValor))
 elif vOpcao == 3:
-    parcela = vCompra / 2
-    print('Valor da compra: R${:.2f} \nValor do parcela em 2 vezes: R${:.2f} \nValor a PAGAR: R${:.2f}'.format(vCompra, parcela, vCompra))
+    vParcela = vCompra / 2
+    print('Valor da compra: R${:.2f} \nValor do parcela em 2 vezes: R${:.2f} \nValor a PAGAR: R${:.2f}'.format(vCompra, vParcela, vCompra))
 elif vOpcao == 4:
     vNumeroParcela = int(input('Em quantas parcelas vai dividir? '))
     vJuros = vCompra * 20 / 100

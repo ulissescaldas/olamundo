@@ -1,4 +1,5 @@
 print('-=-'*50)
+print('''Exercício Python 45: Crie um programa que faça o computador jogar Jokenpô com você.''')
 print('-=-'*50)
 
 import time

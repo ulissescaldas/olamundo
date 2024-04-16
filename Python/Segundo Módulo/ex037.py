@@ -13,7 +13,6 @@ print('''Escola a base de conversão:
 [2] OCTAL
 [3] HEXADECIMAL''')
 vOpcao = int(input('Digite a sua OPÇÃO: '))
-
 if vOpcao == 1:
     print('O valor {} em BINÁRIO é {}'.format(vNumero1, bin(vNumero1)[2:]))
 elif vOpcao == 2:
