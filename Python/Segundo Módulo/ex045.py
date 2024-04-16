@@ -1,3 +1,6 @@
+print('-=-'*50)
+print('-=-'*50)
+
 import time
 from random import randint
 

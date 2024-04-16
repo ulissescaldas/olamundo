@@ -1,3 +1,11 @@
+print('-=-'*50)
+print('''Exercício Python 42:
+Refaça o DESAFIO 35 dos triângulos, acrescentando o recurso de mostrar que tipo de triângulo será formado:
+– EQUILÁTERO: todos os lados iguais
+– ISÓSCELES: dois lados iguais, um diferente
+– ESCALENO: todos os lados diferentes''')
+print('-=-'*50)
+
 vNumero1 = int(input('Digite o prineiro segmento: '))
 vNumero2 = int(input('Digite o segundo segmento: '))
 vNumero3 = int(input('Digite o terceiro segmento: '))
