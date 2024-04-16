@@ -1,3 +1,11 @@
+print('-=-'*50)
+print('''Exercício Python 040:
+Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média atingida:
+– Média abaixo de 5.0: REPROVADO
+– Média entre 5.0 e 6.9: RECUPERAÇÃO
+– Média 7.0 ou superior: APROVADO''')
+print('-=-'*50)
+
 vNota1 = float(input('Digite o valor da primeira nota: '))
 vNota2 = float(input('Digite o valor da segunda nota: '))
 vMedia = (vNota1 + vNota2) / 2
