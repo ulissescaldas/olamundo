@@ -1,8 +1,7 @@
 print('Aula 13 – Estrutura de repetição for')
-
 for i in range(0, 6):
     print('Oi')
-print('Fim')
+    print('Fim')
 for i in range(0, 6):
     print(i)
 print('Fim')
