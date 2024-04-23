@@ -1,0 +1,1 @@
+print('Aula 16 – Tuplas')

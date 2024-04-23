@@ -27,9 +27,8 @@ while True:
          vMenor = vValor
          vProdutoMenor = vProduto
     vOpcao = ' '
-    while vOpcao not in 'SN':
+    while vOpcao not in 'SN' :
         vOpcao = str(input('Deseja cadastrar mais um produto? [S/N] ')).upper().strip()[0]
-
     if vOpcao == 'N':
         print('\nFechando a venda...')
         sleep(1)
