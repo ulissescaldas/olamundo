@@ -21,3 +21,4 @@ Este repositório foi criado com o propósito de armazenar e compartilhar os cur
   * Link para o **Curso de Python - Módulo 1**   [:1st_place_medal: Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-1)
  
   * Link para o **Curso de Python - Módulo 2**   [:1st_place_medal: Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-2/)
+  * Link para o **Curso de Python - Módulo 3**   [:1st_place_medal: Curso em Vídeo](https://www.cursoemvideo.com/curso/python-3-mundo-3/)
