@@ -23,4 +23,11 @@ for p in pessoas.values():
 for k, p in pessoas.items():
     print(f'{k}: {p}')
 
+estado = dict()
+brasil = list()
+for c in range(0, 3):
+    estado['uf'] = str(input('\nUnidade Federativa: '))
+    estado['sigla'] = str(input('Sigla do Estado: '))
+    brasil.append(estado.copy())
+print(brasil)
 
