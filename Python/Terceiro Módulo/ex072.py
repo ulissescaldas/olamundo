@@ -6,6 +6,7 @@ print('-=-'*50)
 
 vTupla = ('zero', 'um', 'dois', 'três', 'quatro', 'cinco', 'seis', 'sete', 'oito', 'nove', 'dez', 'onze',
           'doze', 'treze', 'quatorze', 'quinze', 'dezesseis', 'dezessete', 'dezoito', 'dezenove', 'vinte')
+
 while True:
     print('-=-'*10)
     while True:

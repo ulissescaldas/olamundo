@@ -11,6 +11,7 @@ print('-=-'*50)
 
 vtabela = ('Bragantino', 'Flamengo', 'Botafogo', 'Athletico - PR', 'Grêmio', 'Internacional', 'Atlético - MG',
            'Fortaleza', 'Bahia', 'Fluminense', 'Palmeiras', 'Cruzeiro', 'Juventude', 'São Paulo', 'Vasco')
+
 vtabelaAlf = sorted(vtabela)
 
 print('-=-'*10)
