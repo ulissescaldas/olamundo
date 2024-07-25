@@ -30,3 +30,4 @@ vNumero = []
 
 print(f'Foram sorteado 5 número para a análise: {sorteia(vNumero)}')
 print(f'Somando os valores pares da lista {vNumero} é {somapar(vNumero)}')
+print('Ulisses')
