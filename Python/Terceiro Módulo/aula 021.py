@@ -29,7 +29,6 @@ def somar(a=0, b=0, c=0):
 
 
 contador(0, 100, 10)
-help(contador)
 
 #paramentro opcional
 
@@ -52,4 +51,3 @@ if par(num):
     print('É par!')
 else:
     print('Não é par!')
-
